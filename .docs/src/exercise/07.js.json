@@ -1,0 +1,6 @@
+[
+  {
+    "lineNumber": 13,
+    "text": "/**\n* This is App function.\n*\n* @param {string} n - A string param\n* @param {string} [o] - A optional string param\n* @param {string} [d=DefaultValue] - A optional string param\n* @return {string} A good string\n*\n* @example\n*\n*     foo('hello')\n*/"
+  }
+]
